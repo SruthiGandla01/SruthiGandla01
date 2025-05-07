@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hey 👋 I’m Sruthi Gandla  
 *Turning data into actionable intelligence with precision and purpose.*
 
