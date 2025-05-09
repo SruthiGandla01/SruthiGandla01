@@ -49,10 +49,9 @@
 
 ## 📬 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sruthigandla/)  
-- 📧 sruthigandla@example.com  
-- [Tableau Public](https://public.tableau.com/app/profile/sruthigandla)  
-- Portfolio (Coming soon)
+- https://www.linkedin.com/in/sruthi-gandla-38464b206/
+- 📧 gandla.s@northeastern.edu 
+- sruthigandla.vercel.app
 
 
 <!--
