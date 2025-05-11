@@ -1,7 +1,6 @@
 # Hey 👋 I’m Sruthi Gandla  
 *Turning data into actionable intelligence with precision and purpose.*
 
----
 
 ## 💡 About Me
 
@@ -13,8 +12,6 @@
 
 🚀 Always exploring the next frontier in data-driven innovation — whether it’s MLOps, LLMOps, or operationalizing insights at scale.
 
----
-
 ## 🧭 Currently Exploring
 
 - Retrieval-Augmented Generation (RAG) with LangChain & Pinecone  
@@ -22,7 +19,6 @@
 - Real-time model tracking using BigQuery & GCP Monitoring  
 - LLM fine-tuning and enterprise-grade GenAI workflows
 
----
 
 ## ⚙️ Tech Stack
 
@@ -49,10 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
-
-
-
----
 
 ## 📬 Connect with Me
 
