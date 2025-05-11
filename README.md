@@ -45,7 +45,7 @@
 
   <!-- Cloud & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+   <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
 
@@ -53,8 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
 
   <!-- Visualization -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="40" alt="Tableau"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" height="40" alt="Power BI"/>
+ <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau"/>
+ <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
 
 </p>
 
