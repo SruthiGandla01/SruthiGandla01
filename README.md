@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin-right:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Google_Cloud_Logo.svg" height="40" alt="GCP" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" height="40" alt="GCP" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" alt="AWS" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" style="margin-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin-right:10px;"/>
